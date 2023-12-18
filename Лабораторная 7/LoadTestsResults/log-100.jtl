@@ -1,0 +1,301 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1702302063610,4340,HTTP Request,200,OK,Thread Group 1-15,text,true,,115995,236,100,100,https://sezoncentr.ru/,1145,0,1059
+1702302063610,1145,HTTP Request-0,301,Moved Permanently,Thread Group 1-15,text,true,,321,118,100,100,http://sezoncentr.ru/,1145,0,1059
+1702302064756,3194,HTTP Request-1,200,OK,Thread Group 1-15,text,true,,115674,118,100,100,https://sezoncentr.ru/,3114,0,1258
+1702302063825,4212,HTTP Request,200,OK,Thread Group 1-22,text,true,,115995,236,99,99,https://sezoncentr.ru/,2359,0,1050
+1702302063825,2359,HTTP Request-0,301,Moved Permanently,Thread Group 1-22,text,true,,321,118,99,99,http://sezoncentr.ru/,2359,0,1050
+1702302066185,1852,HTTP Request-1,200,OK,Thread Group 1-22,text,true,,115674,118,99,99,https://sezoncentr.ru/,1771,0,1140
+1702302064247,3800,HTTP Request,200,OK,Thread Group 1-36,text,true,,115995,236,98,98,https://sezoncentr.ru/,1977,0,1059
+1702302064247,1977,HTTP Request-0,301,Moved Permanently,Thread Group 1-36,text,true,,321,118,98,98,http://sezoncentr.ru/,1977,0,1059
+1702302066225,1822,HTTP Request-1,200,OK,Thread Group 1-36,text,true,,115674,118,98,98,https://sezoncentr.ru/,1740,0,1186
+1702302063370,4746,HTTP Request,200,OK,Thread Group 1-7,text,true,,115986,236,97,97,https://sezoncentr.ru/,1150,0,1049
+1702302063370,1150,HTTP Request-0,301,Moved Permanently,Thread Group 1-7,text,true,,321,118,97,97,http://sezoncentr.ru/,1150,0,1049
+1702302064521,3595,HTTP Request-1,200,OK,Thread Group 1-7,text,true,,115665,118,97,97,https://sezoncentr.ru/,3495,0,1493
+1702302063519,4637,HTTP Request,200,OK,Thread Group 1-12,text,true,,115995,236,96,96,https://sezoncentr.ru/,1154,0,1058
+1702302063519,1154,HTTP Request-0,301,Moved Permanently,Thread Group 1-12,text,true,,321,118,96,96,http://sezoncentr.ru/,1154,0,1058
+1702302064673,3483,HTTP Request-1,200,OK,Thread Group 1-12,text,true,,115674,118,96,96,https://sezoncentr.ru/,3391,0,1337
+1702302064133,4047,HTTP Request,200,OK,Thread Group 1-32,text,true,,115995,236,95,95,https://sezoncentr.ru/,2091,0,1050
+1702302064133,2091,HTTP Request-0,301,Moved Permanently,Thread Group 1-32,text,true,,321,118,95,95,http://sezoncentr.ru/,2091,0,1050
+1702302066225,1955,HTTP Request-1,200,OK,Thread Group 1-32,text,true,,115674,118,95,95,https://sezoncentr.ru/,1855,0,1182
+1702302063855,4349,HTTP Request,200,OK,Thread Group 1-23,text,true,,115995,236,94,94,https://sezoncentr.ru/,2332,0,1069
+1702302063855,2332,HTTP Request-0,301,Moved Permanently,Thread Group 1-23,text,true,,321,118,94,94,http://sezoncentr.ru/,2332,0,1069
+1702302066187,2017,HTTP Request-1,200,OK,Thread Group 1-23,text,true,,115674,118,94,94,https://sezoncentr.ru/,1928,0,1148
+1702302064215,4016,HTTP Request,200,OK,Thread Group 1-35,text,true,,115995,236,93,93,https://sezoncentr.ru/,2008,0,1061
+1702302064215,2008,HTTP Request-0,301,Moved Permanently,Thread Group 1-35,text,true,,321,118,93,93,http://sezoncentr.ru/,2008,0,1061
+1702302066224,2007,HTTP Request-1,200,OK,Thread Group 1-35,text,true,,115674,118,93,93,https://sezoncentr.ru/,1891,0,1184
+1702302063641,5227,HTTP Request,200,OK,Thread Group 1-16,text,true,,115995,236,92,92,https://sezoncentr.ru/,1137,0,1049
+1702302063641,1137,HTTP Request-0,301,Moved Permanently,Thread Group 1-16,text,true,,321,118,92,92,http://sezoncentr.ru/,1137,0,1049
+1702302064780,4088,HTTP Request-1,200,OK,Thread Group 1-16,text,true,,115674,118,92,92,https://sezoncentr.ru/,4008,0,1243
+1702302063261,5612,HTTP Request,200,OK,Thread Group 1-1,text,true,,116002,236,91,91,https://sezoncentr.ru/,1195,0,1075
+1702302063261,1198,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,321,118,91,91,http://sezoncentr.ru/,1195,0,1075
+1702302064462,4411,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,115681,118,91,91,https://sezoncentr.ru/,4328,0,1548
+1702302063461,5413,HTTP Request,200,OK,Thread Group 1-10,text,true,,115995,236,91,91,https://sezoncentr.ru/,1140,0,1054
+1702302063461,1140,HTTP Request-0,301,Moved Permanently,Thread Group 1-10,text,true,,321,118,91,91,http://sezoncentr.ru/,1140,0,1054
+1702302064602,4272,HTTP Request-1,200,OK,Thread Group 1-10,text,true,,115674,118,91,91,https://sezoncentr.ru/,4192,0,1413
+1702302063766,5113,HTTP Request,200,OK,Thread Group 1-20,text,true,,115986,236,89,89,https://sezoncentr.ru/,1174,0,1057
+1702302063766,1174,HTTP Request-0,301,Moved Permanently,Thread Group 1-20,text,true,,321,118,89,89,http://sezoncentr.ru/,1174,0,1057
+1702302064942,3937,HTTP Request-1,200,OK,Thread Group 1-20,text,true,,115665,118,89,89,https://sezoncentr.ru/,3855,0,1123
+1702302063400,5494,HTTP Request,200,OK,Thread Group 1-8,text,true,,115995,236,88,88,https://sezoncentr.ru/,1145,0,1050
+1702302063400,1145,HTTP Request-0,301,Moved Permanently,Thread Group 1-8,text,true,,321,118,88,88,http://sezoncentr.ru/,1145,0,1050
+1702302064546,4348,HTTP Request-1,200,OK,Thread Group 1-8,text,true,,115674,118,88,88,https://sezoncentr.ru/,4272,0,1463
+1702302063262,5678,HTTP Request,200,OK,Thread Group 1-3,text,true,,115993,236,87,87,https://sezoncentr.ru/,1196,0,1087
+1702302063262,1198,HTTP Request-0,301,Moved Permanently,Thread Group 1-3,text,true,,321,118,87,87,http://sezoncentr.ru/,1196,0,1087
+1702302064462,4478,HTTP Request-1,200,OK,Thread Group 1-3,text,true,,115672,118,87,87,https://sezoncentr.ru/,4359,0,1634
+1702302063261,5710,HTTP Request,200,OK,Thread Group 1-2,text,true,,116002,236,86,86,https://sezoncentr.ru/,1195,0,1075
+1702302063261,1198,HTTP Request-0,301,Moved Permanently,Thread Group 1-2,text,true,,321,118,86,86,http://sezoncentr.ru/,1195,0,1075
+1702302064462,4509,HTTP Request-1,200,OK,Thread Group 1-2,text,true,,115681,118,86,86,https://sezoncentr.ru/,4393,0,1605
+1702302063945,5109,HTTP Request,200,OK,Thread Group 1-26,text,true,,115995,236,85,85,https://sezoncentr.ru/,2240,0,1056
+1702302063945,2240,HTTP Request-0,301,Moved Permanently,Thread Group 1-26,text,true,,321,118,85,85,http://sezoncentr.ru/,2240,0,1056
+1702302066185,2869,HTTP Request-1,200,OK,Thread Group 1-26,text,true,,115674,118,85,85,https://sezoncentr.ru/,2795,0,1155
+1702302064036,5117,HTTP Request,200,OK,Thread Group 1-29,text,true,,116001,236,84,84,https://sezoncentr.ru/,3484,0,1044
+1702302064036,3484,HTTP Request-0,301,Moved Permanently,Thread Group 1-29,text,true,,321,118,84,84,http://sezoncentr.ru/,3484,0,1044
+1702302067521,1632,HTTP Request-1,200,OK,Thread Group 1-29,text,true,,115680,118,84,84,https://sezoncentr.ru/,1557,0,1144
+1702302065775,3393,HTTP Request,200,OK,Thread Group 1-87,text,true,,115985,236,83,83,https://sezoncentr.ru/,1783,0,1057
+1702302065775,1783,HTTP Request-0,301,Moved Permanently,Thread Group 1-87,text,true,,321,118,83,83,http://sezoncentr.ru/,1783,0,1057
+1702302067559,1609,HTTP Request-1,200,OK,Thread Group 1-87,text,true,,115664,118,83,83,https://sezoncentr.ru/,1530,0,1155
+1702302066025,3169,HTTP Request,200,OK,Thread Group 1-95,text,true,,116001,236,82,82,https://sezoncentr.ru/,1570,0,1050
+1702302066025,1570,HTTP Request-0,301,Moved Permanently,Thread Group 1-95,text,true,,321,118,82,82,http://sezoncentr.ru/,1570,0,1050
+1702302067596,1598,HTTP Request-1,200,OK,Thread Group 1-95,text,true,,115680,118,82,82,https://sezoncentr.ru/,1510,0,1136
+1702302064095,5147,HTTP Request,200,OK,Thread Group 1-31,text,true,,116001,236,81,81,https://sezoncentr.ru/,3478,0,1061
+1702302064095,3478,HTTP Request-0,301,Moved Permanently,Thread Group 1-31,text,true,,321,118,81,81,http://sezoncentr.ru/,3478,0,1061
+1702302067574,1668,HTTP Request-1,200,OK,Thread Group 1-31,text,true,,115680,118,81,81,https://sezoncentr.ru/,1578,0,1142
+1702302065087,4285,HTTP Request,200,OK,Thread Group 1-64,text,true,,116001,236,80,80,https://sezoncentr.ru/,2412,0,1058
+1702302065087,2412,HTTP Request-0,301,Moved Permanently,Thread Group 1-64,text,true,,321,118,80,80,http://sezoncentr.ru/,2412,0,1058
+1702302067500,1872,HTTP Request-1,200,OK,Thread Group 1-64,text,true,,115680,118,80,80,https://sezoncentr.ru/,1740,0,1164
+1702302063669,6260,HTTP Request,200,OK,Thread Group 1-17,text,true,,116001,236,79,79,https://sezoncentr.ru/,1133,0,1047
+1702302063669,1133,HTTP Request-0,301,Moved Permanently,Thread Group 1-17,text,true,,321,118,79,79,http://sezoncentr.ru/,1133,0,1047
+1702302064802,5127,HTTP Request-1,200,OK,Thread Group 1-17,text,true,,115680,118,79,79,https://sezoncentr.ru/,5043,0,1210
+1702302063581,6373,HTTP Request,200,OK,Thread Group 1-14,text,true,,116001,236,78,78,https://sezoncentr.ru/,1142,0,1057
+1702302063581,1142,HTTP Request-0,301,Moved Permanently,Thread Group 1-14,text,true,,321,118,78,78,http://sezoncentr.ru/,1142,0,1057
+1702302064725,5229,HTTP Request-1,200,OK,Thread Group 1-14,text,true,,115680,118,78,78,https://sezoncentr.ru/,5153,0,1290
+1702302063699,6255,HTTP Request,200,OK,Thread Group 1-18,text,true,,116001,236,78,78,https://sezoncentr.ru/,1137,0,1038
+1702302063699,1137,HTTP Request-0,301,Moved Permanently,Thread Group 1-18,text,true,,321,118,78,78,http://sezoncentr.ru/,1137,0,1038
+1702302064836,5118,HTTP Request-1,200,OK,Thread Group 1-18,text,true,,115680,118,78,78,https://sezoncentr.ru/,5042,0,1183
+1702302064432,5536,HTTP Request,200,OK,Thread Group 1-42,text,true,,116008,236,76,76,https://sezoncentr.ru/,3890,0,1085
+1702302064432,3890,HTTP Request-0,301,Moved Permanently,Thread Group 1-42,text,true,,321,118,76,76,http://sezoncentr.ru/,3890,0,1085
+1702302068321,1647,HTTP Request-1,200,OK,Thread Group 1-42,text,true,,115687,118,76,76,https://sezoncentr.ru/,1566,0,1168
+1702302064668,5310,HTTP Request,200,OK,Thread Group 1-50,text,true,,115977,236,75,75,https://sezoncentr.ru/,1594,0,1054
+1702302064668,1594,HTTP Request-0,301,Moved Permanently,Thread Group 1-50,text,true,,321,118,75,75,http://sezoncentr.ru/,1594,0,1054
+1702302066263,3715,HTTP Request-1,200,OK,Thread Group 1-50,text,true,,115656,118,75,75,https://sezoncentr.ru/,3634,0,1145
+1702302064457,5540,HTTP Request,200,OK,Thread Group 1-43,text,true,,116008,236,74,74,https://sezoncentr.ru/,3859,0,1086
+1702302064457,3859,HTTP Request-0,301,Moved Permanently,Thread Group 1-43,text,true,,321,118,74,74,http://sezoncentr.ru/,3859,0,1086
+1702302068316,1681,HTTP Request-1,200,OK,Thread Group 1-43,text,true,,115687,118,74,74,https://sezoncentr.ru/,1607,0,1168
+1702302064698,5312,HTTP Request,200,OK,Thread Group 1-51,text,true,,116001,236,73,73,https://sezoncentr.ru/,1562,0,1061
+1702302064698,1562,HTTP Request-0,301,Moved Permanently,Thread Group 1-51,text,true,,321,118,73,73,http://sezoncentr.ru/,1562,0,1061
+1702302066261,3749,HTTP Request-1,200,OK,Thread Group 1-51,text,true,,115680,118,73,73,https://sezoncentr.ru/,3671,0,1150
+1702302064640,5375,HTTP Request,200,OK,Thread Group 1-49,text,true,,115993,236,72,72,https://sezoncentr.ru/,1620,0,1067
+1702302064640,1620,HTTP Request-0,301,Moved Permanently,Thread Group 1-49,text,true,,321,118,72,72,http://sezoncentr.ru/,1620,0,1067
+1702302066261,3754,HTTP Request-1,200,OK,Thread Group 1-49,text,true,,115672,118,72,72,https://sezoncentr.ru/,3679,0,1159
+1702302066073,4118,HTTP Request,200,OK,Thread Group 1-97,text,true,,116000,236,71,71,https://sezoncentr.ru/,2529,0,1055
+1702302066073,2529,HTTP Request-0,301,Moved Permanently,Thread Group 1-97,text,true,,321,118,71,71,http://sezoncentr.ru/,2529,0,1055
+1702302068601,1590,HTTP Request-1,200,OK,Thread Group 1-97,text,true,,115679,118,71,71,https://sezoncentr.ru/,1512,0,1120
+1702302065448,4960,HTTP Request,200,OK,Thread Group 1-76,text,true,,116000,236,70,70,https://sezoncentr.ru/,3337,0,1052
+1702302065448,3337,HTTP Request-0,301,Moved Permanently,Thread Group 1-76,text,true,,321,118,70,70,http://sezoncentr.ru/,3337,0,1052
+1702302068784,1624,HTTP Request-1,200,OK,Thread Group 1-76,text,true,,115679,118,70,70,https://sezoncentr.ru/,1484,0,1111
+1702302065475,4958,HTTP Request,200,OK,Thread Group 1-77,text,true,,116000,236,69,69,https://sezoncentr.ru/,3309,0,1054
+1702302065475,3309,HTTP Request-0,301,Moved Permanently,Thread Group 1-77,text,true,,321,118,69,69,http://sezoncentr.ru/,3309,0,1054
+1702302068783,1650,HTTP Request-1,200,OK,Thread Group 1-77,text,true,,115679,118,69,69,https://sezoncentr.ru/,1498,0,1112
+1702302065530,4926,HTTP Request,200,OK,Thread Group 1-79,text,true,,116000,236,68,68,https://sezoncentr.ru/,3259,0,1090
+1702302065530,3259,HTTP Request-0,301,Moved Permanently,Thread Group 1-79,text,true,,321,118,68,68,http://sezoncentr.ru/,3259,0,1090
+1702302068789,1667,HTTP Request-1,200,OK,Thread Group 1-79,text,true,,115679,118,68,68,https://sezoncentr.ru/,1517,0,1110
+1702302063428,7480,HTTP Request,200,OK,Thread Group 1-9,text,true,,115993,236,67,67,https://sezoncentr.ru/,1149,0,1056
+1702302063428,1149,HTTP Request-0,301,Moved Permanently,Thread Group 1-9,text,true,,321,118,67,67,http://sezoncentr.ru/,1149,0,1056
+1702302064578,6330,HTTP Request-1,200,OK,Thread Group 1-9,text,true,,115672,118,67,67,https://sezoncentr.ru/,6257,0,1441
+1702302063551,7369,HTTP Request,200,OK,Thread Group 1-13,text,true,,115993,236,66,66,https://sezoncentr.ru/,1144,0,1050
+1702302063551,1144,HTTP Request-0,301,Moved Permanently,Thread Group 1-13,text,true,,321,118,66,66,http://sezoncentr.ru/,1144,0,1050
+1702302064695,6225,HTTP Request-1,200,OK,Thread Group 1-13,text,true,,115672,118,66,66,https://sezoncentr.ru/,6141,0,1321
+1702302064341,6579,HTTP Request,200,OK,Thread Group 1-39,text,true,,116000,236,66,66,https://sezoncentr.ru/,3961,0,1074
+1702302064341,3961,HTTP Request-0,301,Moved Permanently,Thread Group 1-39,text,true,,321,118,66,66,http://sezoncentr.ru/,3961,0,1074
+1702302068302,2618,HTTP Request-1,200,OK,Thread Group 1-39,text,true,,115679,118,66,66,https://sezoncentr.ru/,2534,0,1137
+1702302063730,7214,HTTP Request,200,OK,Thread Group 1-19,text,true,,115993,236,64,64,https://sezoncentr.ru/,1140,0,1044
+1702302063730,1140,HTTP Request-0,301,Moved Permanently,Thread Group 1-19,text,true,,321,118,64,64,http://sezoncentr.ru/,1140,0,1044
+1702302064871,6073,HTTP Request-1,200,OK,Thread Group 1-19,text,true,,115672,118,64,64,https://sezoncentr.ru/,5945,0,1196
+1702302063342,7602,HTTP Request,200,OK,Thread Group 1-6,text,true,,116000,236,64,64,https://sezoncentr.ru/,1142,0,1046
+1702302063342,1142,HTTP Request-0,301,Moved Permanently,Thread Group 1-6,text,true,,321,118,64,64,http://sezoncentr.ru/,1142,0,1046
+1702302064485,6459,HTTP Request-1,200,OK,Thread Group 1-6,text,true,,115679,118,64,64,https://sezoncentr.ru/,6375,0,1526
+1702302064578,6412,HTTP Request,200,OK,Thread Group 1-47,text,true,,116000,236,62,62,https://sezoncentr.ru/,3731,0,1067
+1702302064578,3731,HTTP Request-0,301,Moved Permanently,Thread Group 1-47,text,true,,321,118,62,62,http://sezoncentr.ru/,3731,0,1067
+1702302068309,2681,HTTP Request-1,200,OK,Thread Group 1-47,text,true,,115679,118,62,62,https://sezoncentr.ru/,2578,0,1174
+1702302064367,6631,HTTP Request,200,OK,Thread Group 1-40,text,true,,115977,236,61,61,https://sezoncentr.ru/,3937,0,1057
+1702302064367,3937,HTTP Request-0,301,Moved Permanently,Thread Group 1-40,text,true,,321,118,61,61,http://sezoncentr.ru/,3937,0,1057
+1702302068304,2694,HTTP Request-1,200,OK,Thread Group 1-40,text,true,,115656,118,61,61,https://sezoncentr.ru/,2613,0,1180
+1702302064488,6543,HTTP Request,200,OK,Thread Group 1-44,text,true,,116000,236,60,60,https://sezoncentr.ru/,3821,0,1080
+1702302064488,3821,HTTP Request-0,301,Moved Permanently,Thread Group 1-44,text,true,,321,118,60,60,http://sezoncentr.ru/,3821,0,1080
+1702302068308,2723,HTTP Request-1,200,OK,Thread Group 1-44,text,true,,115679,118,60,60,https://sezoncentr.ru/,2648,0,1181
+1702302065356,5804,HTTP Request,200,OK,Thread Group 1-73,text,true,,115997,236,59,59,https://sezoncentr.ru/,2188,0,1055
+1702302065356,2188,HTTP Request-0,301,Moved Permanently,Thread Group 1-73,text,true,,321,118,59,59,http://sezoncentr.ru/,2188,0,1055
+1702302067545,3615,HTTP Request-1,200,OK,Thread Group 1-73,text,true,,115676,118,59,59,https://sezoncentr.ru/,3541,0,1170
+1702302065058,6678,HTTP Request,200,OK,Thread Group 1-63,text,true,,116004,236,58,58,https://sezoncentr.ru/,4494,0,1060
+1702302065058,4494,HTTP Request-0,301,Moved Permanently,Thread Group 1-63,text,true,,321,118,58,58,http://sezoncentr.ru/,4494,0,1060
+1702302069552,2184,HTTP Request-1,200,OK,Thread Group 1-63,text,true,,115683,118,58,58,https://sezoncentr.ru/,2105,0,1138
+1702302065723,6036,HTTP Request,200,OK,Thread Group 1-85,text,true,,116004,236,57,57,https://sezoncentr.ru/,3830,0,1067
+1702302065723,3830,HTTP Request-0,301,Moved Permanently,Thread Group 1-85,text,true,,321,118,57,57,http://sezoncentr.ru/,3830,0,1067
+1702302069553,2206,HTTP Request-1,200,OK,Thread Group 1-85,text,true,,115683,118,57,57,https://sezoncentr.ru/,2125,0,1140
+1702302066133,5633,HTTP Request,200,OK,Thread Group 1-99,text,true,,116004,236,56,56,https://sezoncentr.ru/,3503,0,1057
+1702302066133,3503,HTTP Request-0,301,Moved Permanently,Thread Group 1-99,text,true,,321,118,56,56,http://sezoncentr.ru/,3503,0,1057
+1702302069636,2130,HTTP Request-1,200,OK,Thread Group 1-99,text,true,,115683,118,56,56,https://sezoncentr.ru/,2044,0,1107
+1702302066042,5725,HTTP Request,200,OK,Thread Group 1-96,text,true,,116004,236,56,56,https://sezoncentr.ru/,3527,0,1054
+1702302066042,3527,HTTP Request-0,301,Moved Permanently,Thread Group 1-96,text,true,,321,118,56,56,http://sezoncentr.ru/,3527,0,1054
+1702302069569,2198,HTTP Request-1,200,OK,Thread Group 1-96,text,true,,115683,118,56,56,https://sezoncentr.ru/,2112,0,1165
+1702302066163,5667,HTTP Request,200,OK,Thread Group 1-100,text,true,,116004,236,54,54,https://sezoncentr.ru/,3407,0,1069
+1702302066163,3407,HTTP Request-0,301,Moved Permanently,Thread Group 1-100,text,true,,321,118,54,54,http://sezoncentr.ru/,3407,0,1069
+1702302069569,2261,HTTP Request-1,200,OK,Thread Group 1-100,text,true,,115683,118,54,54,https://sezoncentr.ru/,2139,0,1139
+1702302065330,6500,HTTP Request,200,OK,Thread Group 1-72,text,true,,116004,236,54,54,https://sezoncentr.ru/,4223,0,1050
+1702302065330,4223,HTTP Request-0,301,Moved Permanently,Thread Group 1-72,text,true,,321,118,54,54,http://sezoncentr.ru/,4223,0,1050
+1702302069553,2277,HTTP Request-1,200,OK,Thread Group 1-72,text,true,,115683,118,54,54,https://sezoncentr.ru/,2158,0,1144
+1702302065749,6127,HTTP Request,200,OK,Thread Group 1-86,text,true,,115997,236,52,52,https://sezoncentr.ru/,3803,0,1051
+1702302065749,3803,HTTP Request-0,301,Moved Permanently,Thread Group 1-86,text,true,,321,118,52,52,http://sezoncentr.ru/,3803,0,1051
+1702302069552,2324,HTTP Request-1,200,OK,Thread Group 1-86,text,true,,115676,118,52,52,https://sezoncentr.ru/,2196,0,1147
+1702302065655,6224,HTTP Request,200,OK,Thread Group 1-83,text,true,,115996,236,51,51,https://sezoncentr.ru/,3874,0,1052
+1702302065655,3874,HTTP Request-0,301,Moved Permanently,Thread Group 1-83,text,true,,321,118,51,51,http://sezoncentr.ru/,3874,0,1052
+1702302069528,2351,HTTP Request-1,200,OK,Thread Group 1-83,text,true,,115675,118,51,51,https://sezoncentr.ru/,2239,0,1160
+1702302064277,7903,HTTP Request,200,OK,Thread Group 1-37,text,true,,115984,236,50,50,https://sezoncentr.ru/,3044,0,1061
+1702302064277,3044,HTTP Request-0,301,Moved Permanently,Thread Group 1-37,text,true,,321,118,50,50,http://sezoncentr.ru/,3044,0,1061
+1702302067321,4859,HTTP Request-1,200,OK,Thread Group 1-37,text,true,,115663,118,50,50,https://sezoncentr.ru/,4709,0,1110
+1702302064184,8012,HTTP Request,200,OK,Thread Group 1-34,text,true,,115993,236,49,49,https://sezoncentr.ru/,3136,0,1059
+1702302064184,3136,HTTP Request-0,301,Moved Permanently,Thread Group 1-34,text,true,,321,118,49,49,http://sezoncentr.ru/,3136,0,1059
+1702302067326,4870,HTTP Request-1,200,OK,Thread Group 1-34,text,true,,115672,118,49,49,https://sezoncentr.ru/,4707,0,1125
+1702302063916,8281,HTTP Request,200,OK,Thread Group 1-25,text,true,,115993,236,49,49,https://sezoncentr.ru/,3314,0,1070
+1702302063916,3314,HTTP Request-0,301,Moved Permanently,Thread Group 1-25,text,true,,321,118,49,49,http://sezoncentr.ru/,3314,0,1070
+1702302067231,4966,HTTP Request-1,200,OK,Thread Group 1-25,text,true,,115672,118,49,49,https://sezoncentr.ru/,4809,0,1091
+1702302063978,8243,HTTP Request,200,OK,Thread Group 1-27,text,true,,115985,236,47,47,https://sezoncentr.ru/,3211,0,1063
+1702302064309,7912,HTTP Request,200,OK,Thread Group 1-38,text,true,,115993,236,47,47,https://sezoncentr.ru/,2923,0,1068
+1702302063978,3211,HTTP Request-0,301,Moved Permanently,Thread Group 1-27,text,true,,321,118,47,47,http://sezoncentr.ru/,3211,0,1063
+1702302064309,2923,HTTP Request-0,301,Moved Permanently,Thread Group 1-38,text,true,,321,118,47,47,http://sezoncentr.ru/,2923,0,1068
+1702302067190,5031,HTTP Request-1,200,OK,Thread Group 1-27,text,true,,115664,118,47,47,https://sezoncentr.ru/,4856,0,1120
+1702302067233,4988,HTTP Request-1,200,OK,Thread Group 1-38,text,true,,115672,118,47,47,https://sezoncentr.ru/,4831,0,1136
+1702302064397,7824,HTTP Request,200,OK,Thread Group 1-41,text,true,,115993,236,47,47,https://sezoncentr.ru/,2922,0,1040
+1702302064397,2922,HTTP Request-0,301,Moved Permanently,Thread Group 1-41,text,true,,321,118,47,47,http://sezoncentr.ru/,2922,0,1040
+1702302067319,4902,HTTP Request-1,200,OK,Thread Group 1-41,text,true,,115672,118,47,47,https://sezoncentr.ru/,4731,0,1105
+1702302064547,7674,HTTP Request,200,OK,Thread Group 1-46,text,true,,115993,236,47,47,https://sezoncentr.ru/,2772,0,1085
+1702302064547,2772,HTTP Request-0,301,Moved Permanently,Thread Group 1-46,text,true,,321,118,47,47,http://sezoncentr.ru/,2772,0,1085
+1702302067319,4902,HTTP Request-1,200,OK,Thread Group 1-46,text,true,,115672,118,47,47,https://sezoncentr.ru/,4747,0,1111
+1702302063279,8943,HTTP Request,200,OK,Thread Group 1-4,text,true,,115993,236,47,47,https://sezoncentr.ru/,2184,0,1083
+1702302063279,2184,HTTP Request-0,301,Moved Permanently,Thread Group 1-4,text,true,,321,118,47,47,http://sezoncentr.ru/,2184,0,1083
+1702302065465,6757,HTTP Request-1,200,OK,Thread Group 1-4,text,true,,115672,118,47,47,https://sezoncentr.ru/,6598,0,1110
+1702302065297,7570,HTTP Request,200,OK,Thread Group 1-71,text,true,,116000,236,42,42,https://sezoncentr.ru/,5246,0,1062
+1702302065297,5246,HTTP Request-0,301,Moved Permanently,Thread Group 1-71,text,true,,321,118,42,42,http://sezoncentr.ru/,5246,0,1062
+1702302070543,2324,HTTP Request-1,200,OK,Thread Group 1-71,text,true,,115679,118,42,42,https://sezoncentr.ru/,2251,0,1096
+1702302065266,7605,HTTP Request,200,OK,Thread Group 1-70,text,true,,116000,236,41,41,https://sezoncentr.ru/,5281,0,1042
+1702302065266,5281,HTTP Request-0,301,Moved Permanently,Thread Group 1-70,text,true,,321,118,41,41,http://sezoncentr.ru/,5281,0,1042
+1702302070547,2324,HTTP Request-1,200,OK,Thread Group 1-70,text,true,,115679,118,41,41,https://sezoncentr.ru/,2248,0,1106
+1702302065030,7851,HTTP Request,200,OK,Thread Group 1-62,text,true,,115991,236,40,40,https://sezoncentr.ru/,5504,0,1055
+1702302065030,5504,HTTP Request-0,301,Moved Permanently,Thread Group 1-62,text,true,,321,118,40,40,http://sezoncentr.ru/,5504,0,1055
+1702302070534,2347,HTTP Request-1,200,OK,Thread Group 1-62,text,true,,115670,118,40,40,https://sezoncentr.ru/,2263,0,1100
+1702302064608,8381,HTTP Request,200,OK,Thread Group 1-48,text,true,,116000,236,39,39,https://sezoncentr.ru/,3708,0,1074
+1702302064608,3708,HTTP Request-0,301,Moved Permanently,Thread Group 1-48,text,true,,321,118,39,39,http://sezoncentr.ru/,3708,0,1074
+1702302068316,4673,HTTP Request-1,200,OK,Thread Group 1-48,text,true,,115679,118,39,39,https://sezoncentr.ru/,4566,0,1173
+1702302064877,8145,HTTP Request,200,OK,Thread Group 1-57,text,true,,116000,236,38,38,https://sezoncentr.ru/,4423,0,1053
+1702302064877,4423,HTTP Request-0,301,Moved Permanently,Thread Group 1-57,text,true,,321,118,38,38,http://sezoncentr.ru/,4423,0,1053
+1702302069300,3722,HTTP Request-1,200,OK,Thread Group 1-57,text,true,,115679,118,38,38,https://sezoncentr.ru/,3647,0,1170
+1702302064163,8904,HTTP Request,200,OK,Thread Group 1-33,text,true,,116004,236,37,37,https://sezoncentr.ru/,4162,0,1050
+1702302064163,4162,HTTP Request-0,301,Moved Permanently,Thread Group 1-33,text,true,,321,118,37,37,http://sezoncentr.ru/,4162,0,1050
+1702302068324,4743,HTTP Request-1,200,OK,Thread Group 1-33,text,true,,115683,118,37,37,https://sezoncentr.ru/,4665,0,1204
+1702302065238,7876,HTTP Request,200,OK,Thread Group 1-69,text,true,,115997,236,36,36,https://sezoncentr.ru/,2218,0,1047
+1702302065238,2218,HTTP Request-0,301,Moved Permanently,Thread Group 1-69,text,true,,321,118,36,36,http://sezoncentr.ru/,2218,0,1047
+1702302067456,5658,HTTP Request-1,200,OK,Thread Group 1-69,text,true,,115676,118,36,36,https://sezoncentr.ru/,5584,0,1173
+1702302065683,7444,HTTP Request,200,OK,Thread Group 1-84,text,true,,116004,236,35,35,https://sezoncentr.ru/,2843,0,1045
+1702302065683,2843,HTTP Request-0,301,Moved Permanently,Thread Group 1-84,text,true,,321,118,35,35,http://sezoncentr.ru/,2843,0,1045
+1702302068525,4602,HTTP Request-1,200,OK,Thread Group 1-84,text,true,,115683,118,35,35,https://sezoncentr.ru/,4529,0,1130
+1702302063796,9349,HTTP Request,200,OK,Thread Group 1-21,text,true,,115997,236,34,34,https://sezoncentr.ru/,3395,0,1059
+1702302063796,3395,HTTP Request-0,301,Moved Permanently,Thread Group 1-21,text,true,,321,118,34,34,http://sezoncentr.ru/,3395,0,1059
+1702302067192,5953,HTTP Request-1,200,OK,Thread Group 1-21,text,true,,115676,118,34,34,https://sezoncentr.ru/,5879,0,1125
+1702302064757,8413,HTTP Request,200,OK,Thread Group 1-53,text,true,,115997,236,33,33,https://sezoncentr.ru/,2522,0,1049
+1702302064757,2522,HTTP Request-0,301,Moved Permanently,Thread Group 1-53,text,true,,321,118,33,33,http://sezoncentr.ru/,2522,0,1049
+1702302067280,5890,HTTP Request-1,200,OK,Thread Group 1-53,text,true,,115676,118,33,33,https://sezoncentr.ru/,5815,0,1090
+1702302065417,7916,HTTP Request,200,OK,Thread Group 1-75,text,true,,116004,236,32,32,https://sezoncentr.ru/,6346,0,1055
+1702302065417,6346,HTTP Request-0,301,Moved Permanently,Thread Group 1-75,text,true,,321,118,32,32,http://sezoncentr.ru/,6346,0,1055
+1702302071764,1569,HTTP Request-1,200,OK,Thread Group 1-75,text,true,,115683,118,32,32,https://sezoncentr.ru/,1494,0,1101
+1702302064731,9176,HTTP Request,200,OK,Thread Group 1-52,text,true,,115995,236,31,31,https://sezoncentr.ru/,4569,0,1053
+1702302064731,4569,HTTP Request-0,301,Moved Permanently,Thread Group 1-52,text,true,,321,118,31,31,http://sezoncentr.ru/,4569,0,1053
+1702302069300,4607,HTTP Request-1,200,OK,Thread Group 1-52,text,true,,115674,118,31,31,https://sezoncentr.ru/,4530,0,1158
+1702302064517,9399,HTTP Request,200,OK,Thread Group 1-45,text,true,,116004,236,30,30,https://sezoncentr.ru/,4784,0,1077
+1702302064517,4784,HTTP Request-0,301,Moved Permanently,Thread Group 1-45,text,true,,321,118,30,30,http://sezoncentr.ru/,4784,0,1077
+1702302069300,4616,HTTP Request-1,200,OK,Thread Group 1-45,text,true,,115683,118,30,30,https://sezoncentr.ru/,4541,0,1165
+1702302063490,10452,HTTP Request,200,OK,Thread Group 1-11,text,true,,115997,236,29,29,https://sezoncentr.ru/,1163,0,1055
+1702302063490,1163,HTTP Request-0,301,Moved Permanently,Thread Group 1-11,text,true,,321,118,29,29,http://sezoncentr.ru/,1163,0,1055
+1702302064654,9288,HTTP Request-1,200,OK,Thread Group 1-11,text,true,,115676,118,29,29,https://sezoncentr.ru/,9212,0,1371
+1702302065147,8985,HTTP Request,200,OK,Thread Group 1-66,text,true,,116000,236,28,28,https://sezoncentr.ru/,3347,0,1037
+1702302065147,3347,HTTP Request-0,301,Moved Permanently,Thread Group 1-66,text,true,,321,118,28,28,http://sezoncentr.ru/,3347,0,1037
+1702302068493,5639,HTTP Request-1,200,OK,Thread Group 1-66,text,true,,115679,118,28,28,https://sezoncentr.ru/,5562,0,1159
+1702302064066,10076,HTTP Request,200,OK,Thread Group 1-30,text,true,,115993,236,27,27,https://sezoncentr.ru/,3447,0,1049
+1702302064066,3447,HTTP Request-0,301,Moved Permanently,Thread Group 1-30,text,true,,321,118,27,27,http://sezoncentr.ru/,3447,0,1049
+1702302067513,6629,HTTP Request-1,200,OK,Thread Group 1-30,text,true,,115672,118,27,27,https://sezoncentr.ru/,6552,0,1151
+1702302063885,10260,HTTP Request,200,OK,Thread Group 1-24,text,true,,115993,236,26,26,https://sezoncentr.ru/,3652,0,1058
+1702302063885,3652,HTTP Request-0,301,Moved Permanently,Thread Group 1-24,text,true,,321,118,26,26,http://sezoncentr.ru/,3652,0,1058
+1702302067538,6607,HTTP Request-1,200,OK,Thread Group 1-24,text,true,,115672,118,26,26,https://sezoncentr.ru/,6531,0,1120
+1702302065116,9032,HTTP Request,200,OK,Thread Group 1-65,text,true,,116000,236,25,25,https://sezoncentr.ru/,3378,0,1051
+1702302065116,3378,HTTP Request-0,301,Moved Permanently,Thread Group 1-65,text,true,,321,118,25,25,http://sezoncentr.ru/,3378,0,1051
+1702302068494,5654,HTTP Request-1,200,OK,Thread Group 1-65,text,true,,115679,118,25,25,https://sezoncentr.ru/,5577,0,1159
+1702302065201,8973,HTTP Request,200,OK,Thread Group 1-68,text,true,,115977,236,24,24,https://sezoncentr.ru/,2250,0,1056
+1702302065201,2250,HTTP Request-0,301,Moved Permanently,Thread Group 1-68,text,true,,321,118,24,24,http://sezoncentr.ru/,2250,0,1056
+1702302067452,6722,HTTP Request-1,200,OK,Thread Group 1-68,text,true,,115656,118,24,24,https://sezoncentr.ru/,6647,0,1154
+1702302064998,9199,HTTP Request,200,OK,Thread Group 1-61,text,true,,115977,236,23,23,https://sezoncentr.ru/,2564,0,1056
+1702302064998,2564,HTTP Request-0,301,Moved Permanently,Thread Group 1-61,text,true,,321,118,23,23,http://sezoncentr.ru/,2564,0,1056
+1702302067562,6635,HTTP Request-1,200,OK,Thread Group 1-61,text,true,,115656,118,23,23,https://sezoncentr.ru/,6555,0,1158
+1702302064818,10221,HTTP Request,200,OK,Thread Group 1-55,text,true,,116000,236,22,22,https://sezoncentr.ru/,4499,0,1051
+1702302064818,4499,HTTP Request-0,301,Moved Permanently,Thread Group 1-55,text,true,,321,118,22,22,http://sezoncentr.ru/,4499,0,1051
+1702302069316,5723,HTTP Request-1,200,OK,Thread Group 1-55,text,true,,115679,118,22,22,https://sezoncentr.ru/,5618,0,1154
+1702302064789,10253,HTTP Request,200,OK,Thread Group 1-54,text,true,,116000,236,21,21,https://sezoncentr.ru/,4512,0,1080
+1702302064789,4512,HTTP Request-0,301,Moved Permanently,Thread Group 1-54,text,true,,321,118,21,21,http://sezoncentr.ru/,4512,0,1080
+1702302069300,5742,HTTP Request-1,200,OK,Thread Group 1-54,text,true,,115679,118,21,21,https://sezoncentr.ru/,5634,0,1166
+1702302064848,10255,HTTP Request,200,OK,Thread Group 1-56,text,true,,116000,236,20,20,https://sezoncentr.ru/,4462,0,1061
+1702302064848,4462,HTTP Request-0,301,Moved Permanently,Thread Group 1-56,text,true,,321,118,20,20,http://sezoncentr.ru/,4462,0,1061
+1702302069309,5794,HTTP Request-1,200,OK,Thread Group 1-56,text,true,,115679,118,20,20,https://sezoncentr.ru/,5687,0,1159
+1702302065895,9272,HTTP Request,200,OK,Thread Group 1-91,text,true,,116002,236,19,19,https://sezoncentr.ru/,6642,0,1036
+1702302065895,6642,HTTP Request-0,301,Moved Permanently,Thread Group 1-91,text,true,,321,118,19,19,http://sezoncentr.ru/,6642,0,1036
+1702302072537,2630,HTTP Request-1,200,OK,Thread Group 1-91,text,true,,115681,118,19,19,https://sezoncentr.ru/,2486,0,1111
+1702302065385,9864,HTTP Request,200,OK,Thread Group 1-74,text,true,,116002,236,18,18,https://sezoncentr.ru/,7152,0,1056
+1702302065385,7152,HTTP Request-0,301,Moved Permanently,Thread Group 1-74,text,true,,321,118,18,18,http://sezoncentr.ru/,7152,0,1056
+1702302072537,2712,HTTP Request-1,200,OK,Thread Group 1-74,text,true,,115681,118,18,18,https://sezoncentr.ru/,2520,0,1114
+1702302065804,9517,HTTP Request,200,OK,Thread Group 1-88,text,true,,116002,236,17,17,https://sezoncentr.ru/,6734,0,1058
+1702302065804,6734,HTTP Request-0,301,Moved Permanently,Thread Group 1-88,text,true,,321,118,17,17,http://sezoncentr.ru/,6734,0,1058
+1702302072537,2784,HTTP Request-1,200,OK,Thread Group 1-88,text,true,,115681,118,17,17,https://sezoncentr.ru/,2587,0,1117
+1702302065834,9552,HTTP Request,200,OK,Thread Group 1-89,text,true,,116002,236,16,16,https://sezoncentr.ru/,6708,0,1053
+1702302065834,6708,HTTP Request-0,301,Moved Permanently,Thread Group 1-89,text,true,,321,118,16,16,http://sezoncentr.ru/,6708,0,1053
+1702302072544,2842,HTTP Request-1,200,OK,Thread Group 1-89,text,true,,115681,118,16,16,https://sezoncentr.ru/,2525,0,1119
+1702302064939,10545,HTTP Request,200,OK,Thread Group 1-59,text,true,,116002,236,15,15,https://sezoncentr.ru/,7603,0,1071
+1702302064939,7603,HTTP Request-0,301,Moved Permanently,Thread Group 1-59,text,true,,321,118,15,15,http://sezoncentr.ru/,7603,0,1071
+1702302072543,2941,HTTP Request-1,200,OK,Thread Group 1-59,text,true,,115681,118,15,15,https://sezoncentr.ru/,2526,0,1140
+1702302065563,10582,HTTP Request,200,OK,Thread Group 1-80,text,true,,116002,236,14,14,https://sezoncentr.ru/,7234,0,1058
+1702302065563,7234,HTTP Request-0,301,Moved Permanently,Thread Group 1-80,text,true,,321,118,14,14,http://sezoncentr.ru/,7234,0,1058
+1702302072798,3347,HTTP Request-1,200,OK,Thread Group 1-80,text,true,,115681,118,14,14,https://sezoncentr.ru/,3259,0,1099
+1702302064007,12207,HTTP Request,200,OK,Thread Group 1-28,text,true,,115986,236,13,13,https://sezoncentr.ru/,3487,0,1050
+1702302064007,3487,HTTP Request-0,301,Moved Permanently,Thread Group 1-28,text,true,,321,118,13,13,http://sezoncentr.ru/,3487,0,1050
+1702302067495,8719,HTTP Request-1,200,OK,Thread Group 1-28,text,true,,115665,118,13,13,https://sezoncentr.ru/,8615,0,1165
+1702302065862,10389,HTTP Request,200,OK,Thread Group 1-90,text,true,,116002,236,12,12,https://sezoncentr.ru/,7724,0,1048
+1702302065862,7724,HTTP Request-0,301,Moved Permanently,Thread Group 1-90,text,true,,321,118,12,12,http://sezoncentr.ru/,7724,0,1048
+1702302073590,2661,HTTP Request-1,200,OK,Thread Group 1-90,text,true,,115681,118,12,12,https://sezoncentr.ru/,2523,0,1157
+1702302065942,10312,HTTP Request,200,OK,Thread Group 1-92,text,true,,115995,236,11,11,https://sezoncentr.ru/,7642,0,1036
+1702302065942,7642,HTTP Request-0,301,Moved Permanently,Thread Group 1-92,text,true,,321,118,11,11,http://sezoncentr.ru/,7642,0,1036
+1702302073585,2669,HTTP Request-1,200,OK,Thread Group 1-92,text,true,,115674,118,11,11,https://sezoncentr.ru/,2532,0,1203
+1702302064968,11335,HTTP Request,200,OK,Thread Group 1-60,text,true,,116002,236,10,10,https://sezoncentr.ru/,8613,0,1055
+1702302064968,8613,HTTP Request-0,301,Moved Permanently,Thread Group 1-60,text,true,,321,118,10,10,http://sezoncentr.ru/,8613,0,1055
+1702302073583,2720,HTTP Request-1,200,OK,Thread Group 1-60,text,true,,115681,118,10,10,https://sezoncentr.ru/,2605,0,1162
+1702302065624,10687,HTTP Request,200,OK,Thread Group 1-82,text,true,,115986,236,9,9,https://sezoncentr.ru/,1873,0,1050
+1702302065624,1873,HTTP Request-0,301,Moved Permanently,Thread Group 1-82,text,true,,321,118,9,9,http://sezoncentr.ru/,1873,0,1050
+1702302067498,8813,HTTP Request-1,200,OK,Thread Group 1-82,text,true,,115665,118,9,9,https://sezoncentr.ru/,8716,0,1159
+1702302064910,11621,HTTP Request,200,OK,Thread Group 1-58,text,true,,116002,236,8,8,https://sezoncentr.ru/,8671,0,1063
+1702302064910,8671,HTTP Request-0,301,Moved Permanently,Thread Group 1-58,text,true,,321,118,8,8,http://sezoncentr.ru/,8671,0,1063
+1702302073582,2949,HTTP Request-1,200,OK,Thread Group 1-58,text,true,,115681,118,8,8,https://sezoncentr.ru/,2565,0,1932
+1702302065951,11308,HTTP Request,200,OK,Thread Group 1-93,text,true,,115993,236,7,7,https://sezoncentr.ru/,8608,0,1054
+1702302065951,8608,HTTP Request-0,301,Moved Permanently,Thread Group 1-93,text,true,,321,118,7,7,http://sezoncentr.ru/,8608,0,1054
+1702302074560,2699,HTTP Request-1,200,OK,Thread Group 1-93,text,true,,115672,118,7,7,https://sezoncentr.ru/,2574,0,1192
+1702302065177,12083,HTTP Request,200,OK,Thread Group 1-67,text,true,,116000,236,7,7,https://sezoncentr.ru/,8404,0,1052
+1702302065177,8404,HTTP Request-0,301,Moved Permanently,Thread Group 1-67,text,true,,321,118,7,7,http://sezoncentr.ru/,8404,0,1052
+1702302073583,3677,HTTP Request-1,200,OK,Thread Group 1-67,text,true,,115679,118,7,7,https://sezoncentr.ru/,3552,0,1158
+1702302065988,11288,HTTP Request,200,OK,Thread Group 1-94,text,true,,115977,236,5,5,https://sezoncentr.ru/,8578,0,1039
+1702302065988,8578,HTTP Request-0,301,Moved Permanently,Thread Group 1-94,text,true,,321,118,5,5,http://sezoncentr.ru/,8578,0,1039
+1702302074566,2710,HTTP Request-1,200,OK,Thread Group 1-94,text,true,,115656,118,5,5,https://sezoncentr.ru/,2604,0,1187
+1702302063310,13966,HTTP Request,200,OK,Thread Group 1-5,text,true,,115984,236,5,5,https://sezoncentr.ru/,2168,0,1060
+1702302063310,2168,HTTP Request-0,301,Moved Permanently,Thread Group 1-5,text,true,,321,118,5,5,http://sezoncentr.ru/,2168,0,1060
+1702302065479,11797,HTTP Request-1,200,OK,Thread Group 1-5,text,true,,115663,118,5,5,https://sezoncentr.ru/,11692,0,1145
+1702302065505,12146,HTTP Request,200,OK,Thread Group 1-78,text,true,,116000,236,3,3,https://sezoncentr.ru/,10375,0,1090
+1702302065505,10375,HTTP Request-0,301,Moved Permanently,Thread Group 1-78,text,true,,321,118,3,3,http://sezoncentr.ru/,10375,0,1090
+1702302075881,1770,HTTP Request-1,200,OK,Thread Group 1-78,text,true,,115679,118,3,3,https://sezoncentr.ru/,1599,0,1183
+1702302066103,11737,HTTP Request,200,OK,Thread Group 1-98,text,true,,115993,236,2,2,https://sezoncentr.ru/,1471,0,1055
+1702302066103,1471,HTTP Request-0,301,Moved Permanently,Thread Group 1-98,text,true,,321,118,2,2,http://sezoncentr.ru/,1471,0,1055
+1702302067574,10266,HTTP Request-1,200,OK,Thread Group 1-98,text,true,,115672,118,2,2,https://sezoncentr.ru/,9601,0,1142
+1702302065594,12878,HTTP Request,200,OK,Thread Group 1-81,text,true,,116006,236,1,1,https://sezoncentr.ru/,11259,0,1052
+1702302065594,11259,HTTP Request-0,301,Moved Permanently,Thread Group 1-81,text,true,,321,118,1,1,http://sezoncentr.ru/,11259,0,1052
+1702302076855,1617,HTTP Request-1,200,OK,Thread Group 1-81,text,true,,115685,118,1,1,https://sezoncentr.ru/,1525,0,1111
